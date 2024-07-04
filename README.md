@@ -28,6 +28,12 @@ I accidently found the
 that would have been almost exactly what I was looking
 for, but by then it was too late.
 
+During construction,
+[a blog entry by Malte Poeggel and his design files](https://www.maltepoeggel.de/?site=solar-mppt-cn3722&lang=en)
+was a great inspiration, because it uses the same
+main charge controller (CN3722) and so I had a known-working
+design to start from.
+
 ## Features
 
 Input is meant to be a 12V solar panel. Maximum input
