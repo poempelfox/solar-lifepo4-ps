@@ -5972,7 +5972,7 @@
 		)
 		(uuid "937567d6-d9f1-474c-82b8-8562a48996d7")
 	)
-	(text "R12+R13 select the output voltage. Populate only one of them.\nUse 0 Ohm for 5.0V, or 80.6k for 3.3V, or 66.5k for 3.4V.\nSee datasheet for other values.\nYou can't go lower than 3.3V, as this is a boost converter,\nnot a buck-boost; at full battery (=3.6V) the lowest it can\nproduce is about 3.4V.\n"
+	(text "R12+R13 select the output voltage. Populate only one of them.\nUse 0 Ohm for 5.0V, or 80.6k for 3.3V, or 66.5k for 3.4V.\nSee datasheet for other values.\nYou can't go lower than 3.3V, as this is a boost converter,\nnot a buck-boost; at max battery voltage (=3.6V) the lowest\nit can produce is about 3.4V.\n"
 		(exclude_from_sim no)
 		(at 52.578 181.864 0)
 		(effects
