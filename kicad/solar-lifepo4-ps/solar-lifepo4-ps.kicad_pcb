@@ -7285,7 +7285,7 @@
 		(uuid "82ca959c-e1f7-4009-9862-e1d9992c55dd")
 		(at 88 112)
 		(property "Reference" "BAT1"
-			(at 0 17 0)
+			(at -10 17 0)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "421168d7-f9f5-476b-8cbe-4c0020f9c53c")
@@ -14518,7 +14518,7 @@
 		)
 	)
 	(gr_text "26650 LiFePO4 cell"
-		(at 94 129.5 0)
+		(at 83.5 129.5 0)
 		(layer "F.SilkS")
 		(uuid "54a99b8f-0418-40ef-b799-6b4d9fde6f4c")
 		(effects
